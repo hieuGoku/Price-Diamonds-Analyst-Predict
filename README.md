@@ -57,3 +57,5 @@ run_time_big = []
 
 
 + Khi chạy cell ở ***“Hyperparamter Tuning using RandomizedSearchCV và GridSearchCV”*** sẽ tốn khá nhiều thời gian thực thi. Nếu muốn thì có thể dùng sẵn Hyperparameter đã thử nghiệm để tiết kiệm thời gian.
+
+**Thansk Allurez Website**
